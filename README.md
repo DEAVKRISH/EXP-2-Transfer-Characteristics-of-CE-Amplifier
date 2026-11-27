@@ -21,10 +21,12 @@ i) Connect the circuit as per the circuit diagram.
 ii) Set IB and vary VCE in regular intervals of steps and note down the corresponding IC reading. Repeat the above procedure for different values of IB.
 iii) Plot the graph: VCE vs IC for a constant IB.
 
-circuit diagram:
+circuit diagram:<img width="1011" height="520" alt="image" src="https://github.com/user-attachments/assets/1281e53e-3b4b-46fd-804f-a546cc20ce9c" />
 
 
-simulation result:
+
+simulation result:<img width="995" height="534" alt="image" src="https://github.com/user-attachments/assets/beff200f-5c50-484d-bbac-0b6b9ba22d09" />
+
 
 
 
